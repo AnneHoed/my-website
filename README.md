@@ -6,4 +6,4 @@ Updates made on the README file.
 
 ## Purpose
 
-Even less purpose locally
+This file has no purpose
