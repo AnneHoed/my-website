@@ -2,4 +2,4 @@
 
 This is an awesome website
 
-The other way around
+Updates made on the README file.
